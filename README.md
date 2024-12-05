@@ -34,7 +34,9 @@ cp .env_sample .env
 
 ### With docker
 
-- Install [just](https://github.com/casey/just)
+- Install Dockers (https://docs.docker.com/engine/install/ubuntu/)
+- Install `just` (https://github.com/casey/just)
+- Install `postgresql-client`
 - Run `just docker-up`
 
 ### Without docker
